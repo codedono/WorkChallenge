@@ -1,0 +1,11 @@
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/workChallengeWebForm.dll
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/workChallengeWebForm.pdb
+/Users/DonoGQ/Projects/workChallengeWebForm/obj/Debug/workChallengeWebForm.csprojAssemblyReference.cache
+/Users/DonoGQ/Projects/workChallengeWebForm/obj/Debug/workChallengeWebForm.csproj.CoreCompileInputs.cache
+/Users/DonoGQ/Projects/workChallengeWebForm/obj/Debug/workChallengeWebForm.dll
+/Users/DonoGQ/Projects/workChallengeWebForm/obj/Debug/workChallengeWebForm.pdb
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/Google.Protobuf.dll
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/MySql.Data.dll
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/Google.Protobuf.xml
+/Users/DonoGQ/Projects/workChallengeWebForm/bin/MySql.Data.xml
+/Users/DonoGQ/Projects/workChallengeWebForm/obj/Debug/workChallengeWebForm.csproj.CopyComplete

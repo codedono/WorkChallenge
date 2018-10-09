@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B8D048B0-C9FF-47F3-9796-D9CABADCE591}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Default.aspx">
+    <Files>
+      <File FileName="Default.aspx" Line="5" Column="43" />
+      <File FileName="Default.aspx.cs" Line="9" Column="9" />
+      <File FileName="Default.aspx.designer.cs" Line="22" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="registrationForm" expanded="True">
+            <Node name="workChallengeWebForm" expanded="True">
+              <Node name="Default.aspx" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.workChallengeWebForm PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
